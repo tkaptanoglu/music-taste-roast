@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.github.tkaptanoglu.musicroast.ArtistTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-10-01T20:41:18.452Z" hostname="TIPILDELL" time="0.04">
+  <properties/>
+  <testcase name="recordStoresValuesCorrectly()" classname="com.github.tkaptanoglu.musicroast.ArtistTest" time="0.04"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
